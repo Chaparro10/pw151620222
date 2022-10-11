@@ -1,0 +1,147 @@
+body{
+    font-size: 16px;
+    margin:  0px auto;
+    /* Recomendacion del cliente */
+    max-width: 1078px;
+    min-width: 1078px;
+}
+
+header input{
+    float: right;
+    margin-right: -210px;
+    margin-top: 15px;
+}
+
+#paint{
+    float: right;
+}
+
+#granthams{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+header nav ul li{
+    color: lightgrey;
+    border-bottom: 1px solid lightgrey;
+    display: inline-block;
+    font-size: 1.8em;
+    margin-right: 15px;
+
+    padding-bottom: 4px;
+    /* text-decoration: underline; */
+
+}
+
+header nav{
+    /* text-align: center; */
+    margin-left: 210px;
+}
+
+#primerSeccion{
+    margin-top: 60px;
+    height: 318px;
+}
+
+#primerSeccion article{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#secc01art01{
+    width: 60%;
+}
+
+#secc01art02{
+    margin-left: 50px;
+    width: 30%;
+}
+
+header nav{
+    /* text-align: center; */
+    margin-left: 210px;
+}
+
+#primerSeccion{
+    margin-top: 60px;
+    height: 318px;
+}
+
+#primerSeccion article{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#secc1art01{
+    width: 60%;
+}
+
+#secc1art02{
+    margin-left: 50px;
+    width: 30%;
+}
+/*************utilidades*****************/
+.letraMediana{
+    font-size: 2em;
+}
+
+.colorrosa{
+    color: #FF0099;
+}
+.colorAzul{
+    color: #4267b3;
+}
+.colorVerde{
+    color: #8BC500;
+}
+.letraGrande{
+    font-size: 3.5em;
+}
+
+.nito{
+    font-weight: bold;
+}
+/******************************/
+
+#secc1art02 ul{
+    list-style: none;
+    margin-left: -40px;
+}
+#secc1art02 ul li:before{
+    color: #FF0099;
+    content:".";
+}
+
+/*IMAGEN VERDE */
+#bg_offer{
+    position: relative;
+    left: -55px;
+    top: -406px;
+}
+
+/*SEGUNDA SECCION*/
+#segundaSeccion article{
+    margin-right: 185px;
+    text-align: right;
+}
+/*TERCERA SECCION*/
+#terceraSeccion article{
+    width: 23%;
+    display: inline-block;
+    vertical-align: top;
+}
+#terceraSeccion article img{
+    vertical-align: middle;
+}
+#secc3art04{
+    
+    /*padding-top: 40px;*/
+    margin-top: 50px;
+}
+#secc3art04 .BotonV{
+    border: none;
+  background-color: #8BC500 ;
+  color: white ;
+  border-radius: 2px;
+  padding: 7px 15px;
+  margin-top: 2rem;
+}
