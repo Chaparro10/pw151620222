@@ -1,0 +1,53 @@
+commit 4dac156898139179e0c96ee5cbef8f22cf4484e9
+Author: CCDM30 <ccdm30@CCDM.local>
+Date:   Mon Oct 17 15:59:35 2022 -0600
+
+    Practica Css04 html
+
+commit 9bdb45d7e2a737467e3e0be91d6b77469ddd5072
+Author: CCDM30 <ccdm30@CCDM.local>
+Date:   Tue Oct 11 16:00:40 2022 -0600
+
+    Practica02 CSS terminado
+
+commit 244faad1b1fc340b3fbd5909373b3518f58f39bb
+Author: CCDM30 <ccdm30@CCDM.local>
+Date:   Wed Oct 5 15:48:01 2022 -0600
+
+    Practica CSS02 HTML Terminado
+
+commit ef814f99cdd997c14a6dbf99c07bd5e6be495d50
+Author: CCDM30 <ccdm30@CCDM.local>
+Date:   Tue Oct 4 15:48:47 2022 -0600
+
+    Practica02 Inicio
+
+commit 1929b90a8919c47ed019a1a360057d567c4859b2
+Author: CCDM30 <ccdm30@CCDM.local>
+Date:   Mon Oct 3 15:54:39 2022 -0600
+
+    Practica1_Finalizada
+
+commit d9b75aa46d926d2f577a5fa459e432d0c846d1a2
+Author: CCDM30 <ccdm30@CCDM.local>
+Date:   Thu Sep 29 15:59:50 2022 -0600
+
+    Practica Css pt2
+
+commit bca56e2473385dab47fce30d9440ef9001a17af6
+Author: CCDM30 <ccdm30@CCDM.local>
+Date:   Wed Sep 28 15:57:58 2022 -0600
+
+    practicaCss01 html
+
+commit 8149d051187221a306686e650eea35d7c57a27a7
+Author: CCDM30 <ccdm30@CCDM.local>
+Date:   Tue Sep 27 15:49:27 2022 -0600
+
+    Titulo
+
+commit 3a4bb98f88f7f0d8f7eb8835e9338c6250bc143b
+Author: CCDM30 <ccdm30@CCDM.local>
+Date:   Tue Sep 27 15:34:40 2022 -0600
+
+    Primer commit

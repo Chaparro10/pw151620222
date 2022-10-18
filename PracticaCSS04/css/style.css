@@ -1,0 +1,39 @@
+body{
+    margin: 0 auto;
+    background-color: #efefef;
+}
+#sec1{
+    display: flex;
+   justify-content: center;
+    background-color: #245d92;
+}
+header nav {
+    border: solid 1px red;
+    padding: 30px 0;
+    
+}
+header  nav ul li{
+    
+    display: flex;
+    align-content: space-between;
+    float:  right;
+    background-color: gray;
+    margin-top: -37px;
+    
+   
+}
+#asidesec1{
+    background-color: #245d92;
+    margin-right: 70rem;
+   
+}
+#asidesec2{
+
+}
+#colorFA{
+    background-color: #245d92;
+    padding: 15px;
+}
+.cabezera img{
+    height: 50px;
+}
