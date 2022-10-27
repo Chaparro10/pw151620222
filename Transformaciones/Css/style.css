@@ -1,0 +1,58 @@
+article{
+    background: greenyellow;
+    border: 2px solid black;
+    color: black;
+    margin:  20px 5px;/*ARRIBA-ABAJO Y IZD-DER*/
+    padding: 15px;
+    width: 400px;
+    -moz-transition: all 0.5s linear;
+    -ms-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+    -webkit-transition: all 0.5s linear;
+
+}
+article p{
+font: 30px Tahoma;
+font-weight: bold;/*NEGRITAS*/
+width: 100%;
+text-align: center;
+}
+
+
+/*TRANSFORMACION*/
+/*
+article:hover{
+    height: 400px;
+    widows: 800px;
+}*/
+/*
+article:hover{
+    background: black;
+    color: greenyellow;
+    transform: translate(150px,150px);
+}*/
+/*
+article:hover{
+    background: black;
+    color: greenyellow;
+    transform: rotate(180deg);
+}*/
+/*
+article:hover{
+    background: black;
+    color: greenyellow;
+    transform: scale(1.5);
+}*/
+/*
+article:hover{
+    background: black;
+    color: greenyellow;
+    transform: skew(10deg,10deg);
+}
+*/
+article:hover{
+    background: black;
+    color: greenyellow;
+    transform: translate(150px,150px) rotate(360deg) scale(1.5) skew(10deg,10deg);
+}
+
