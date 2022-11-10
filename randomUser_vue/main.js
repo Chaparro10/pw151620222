@@ -3,7 +3,9 @@ const App={
     return{
         mensaje: 'Hola Vue.js',
         muestra: false,
-        nombre:""
+        nombre:"",
+        persona: [],
+        cantidad:1
     }
   },
   methods:{
@@ -12,12 +14,16 @@ const App={
     },
     randomUser:async function(){
         let n=""
-        await axios.get('https://randomuser.me/api/').then(function(response)
+        let p=[];
+        await axios.get('https://randomuser.me/api/?results='+this.cantidad).then(function(response)
         {
            // console.log(response.data.results[0].name.last)
-           n=response.data.results[0].name.last
+           n=response.data.results[0].name.last 
+           p=response.data.results
+           
         });
         this.nombre=n;
+        this.persona=p;
     }
   }
 
