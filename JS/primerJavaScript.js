@@ -1,6 +1,6 @@
 alert("Alerta en archivo")
 
-//ASYNC-AWAIT FUNCION QUE LLAMA A UNA API 
+//ASYNC-AWAIT FUNCION QUE LLAMA A UNA API .
 async function traePersona(){
     const respuesta=await fetch("https://randomuser.me/api/");
     const datos=await respuesta.json();
